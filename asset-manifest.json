@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/day1-react/static/css/main.0571b234.chunk.css",
+    "main.js": "/day1-react/static/js/main.de72f91b.chunk.js",
+    "main.js.map": "/day1-react/static/js/main.de72f91b.chunk.js.map",
+    "runtime-main.js": "/day1-react/static/js/runtime-main.af459127.js",
+    "runtime-main.js.map": "/day1-react/static/js/runtime-main.af459127.js.map",
+    "static/js/2.d33de6af.chunk.js": "/day1-react/static/js/2.d33de6af.chunk.js",
+    "static/js/2.d33de6af.chunk.js.map": "/day1-react/static/js/2.d33de6af.chunk.js.map",
+    "static/js/3.97893771.chunk.js": "/day1-react/static/js/3.97893771.chunk.js",
+    "static/js/3.97893771.chunk.js.map": "/day1-react/static/js/3.97893771.chunk.js.map",
+    "index.html": "/day1-react/index.html",
+    "static/css/main.0571b234.chunk.css.map": "/day1-react/static/css/main.0571b234.chunk.css.map",
+    "static/js/2.d33de6af.chunk.js.LICENSE.txt": "/day1-react/static/js/2.d33de6af.chunk.js.LICENSE.txt",
+    "static/media/work.css": "/day1-react/static/media/download.beca6ceb.jpg",
+    "static/media/about.css": "/day1-react/static/media/data.2d76e63c.jpg",
+    "static/media/home.css": "/day1-react/static/media/homePage.2ae20474.jpg",
+    "static/media/logo.6ce24c58.svg": "/day1-react/static/media/logo.6ce24c58.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.af459127.js",
+    "static/js/2.d33de6af.chunk.js",
+    "static/css/main.0571b234.chunk.css",
+    "static/js/main.de72f91b.chunk.js"
+  ]
+}
